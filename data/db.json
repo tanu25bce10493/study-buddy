@@ -1,0 +1,83 @@
+{
+  "subjects": {
+    "Python Basics": [
+      {
+        "question": "What is Python?",
+        "answer": "A programming language",
+        "tags": []
+      },
+      {
+        "question": "What is Indentation",
+        "answer": "A indentation is a block of code used in python",
+        "tags": []
+      }
+    ],
+    "python": [
+      {
+        "question": "",
+        "answer": "",
+        "tags": []
+      },
+      {
+        "question": "Does interpret code line by line?",
+        "answer": "yes",
+        "tags": []
+      }
+    ],
+    "Python": [
+      {
+        "question": "Can Python return multiple values?",
+        "answer": "yes",
+        "tags": []
+      }
+    ]
+  },
+  "tasks": [],
+  "quiz_results": [
+    {
+      "user": "student",
+      "subject": "Python Basics",
+      "score": 1,
+      "out_of": 1,
+      "when": "2025-11-24T16:54:51.301234",
+      "details": [
+        {
+          "question": "What is Indentation",
+          "given": "A indentation is a block of code used in python",
+          "correct": "A indentation is a block of code used in python",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "user": "student",
+      "subject": "python",
+      "score": 1,
+      "out_of": 1,
+      "when": "2025-11-24T17:17:06.165086",
+      "details": [
+        {
+          "question": "",
+          "given": "",
+          "correct": "",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "user": "student",
+      "subject": "Python",
+      "score": 1,
+      "out_of": 1,
+      "when": "2025-11-24T17:20:48.255911",
+      "details": [
+        {
+          "question": "Can Python return multiple values?",
+          "given": "yes",
+          "correct": "yes",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}
